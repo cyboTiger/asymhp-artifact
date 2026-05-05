@@ -1,5 +1,6 @@
-## wan2.1-1.3b
+## wan2.1-1.3b (12 heads)
 + [x] 120frames, 2gpus(off/equal/unequal_asymm)
++ [ ] 120frames, 3gpus(off/equal/unequal_asymm)
 + [x] 120frames, 4gpus(off/equal/unequal_asymm)
 + [x] 120frames, 6gpus(off/equal/unequal_asymm)
 + [ ] 120frames, 8gpus(unequal_asymm)
@@ -9,15 +10,17 @@
 + [x] 240frames, 6gpus(off/equal/unequal_asymm)
 + [ ] 240frames, 8gpus(unequal_asymm)
 
-## wan2.1-14b
-+ [ ] 120frames, 2gpus(off/equal/unequal_asymm)
-+ [ ] 120frames, 4gpus(off/equal/unequal_asymm)
-+ [ ] 120frames, 6gpus(off/equal/unequal_asymm)
-+ [x] 120frames, 8gpus(unequal_asymm)
-
-## hunyuanvideo
+## wan2.1-14b (40 heads)
 + [ ] 120frames, 2gpus(off/equal/unequal_asymm)
 + [x] 120frames, 4gpus(off/equal/unequal_asymm)
++ [ ] 120frames, 5gpus(off/equal/unequal_asymm)
++ [ ] 120frames, 6gpus(unequal_asymm)
++ [x] 120frames, 8gpus(off/equal/unequal_asymm)
+
+## hunyuanvideo (24 heads)
++ [ ] 120frames, 2gpus(off/equal/unequal_asymm)
++ [ ] 120frames, 3gpus(off/equal/unequal_asymm)
++ [x] 120frames, 4gpus(off/equal/unequal_asymm)
 + [ ] 120frames, 6gpus(off/equal/unequal_asymm)
-+ [x] 120frames, 8gpus(unequal_asymm)
++ [x] 120frames, 8gpus(off/equal/unequal_asymm)
 
